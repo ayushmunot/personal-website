@@ -116,7 +116,7 @@ const workExperiences = {
       company: "NCR",
       companylogo: require("./assets/images/ncrlogo.png"),
       date: "May 2021 – August 2021",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "Deferred Summer Internship"
     },
   ]
 };
@@ -138,7 +138,7 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
+      image: require("./assets/images/fullfill-logo.png"),
       link: "https://www.teamfullcircle.org/"
     }
   ]
