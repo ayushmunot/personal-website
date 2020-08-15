@@ -113,9 +113,9 @@ const workExperiences = {
   experience: [
     {
       role: "Software Engineer Intern",  
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
+      company: "NCR",
+      companylogo: require("./assets/images/ncrlogo.png"),
+      date: "May 2021 – August 2021",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
   ]
