@@ -32,6 +32,7 @@ export default class Main extends Component {
         <Twitter />
         {/* <Podcast />
         <Profile /> */}
+        <Contact />
         <Footer />
         <Top />
       </div>
