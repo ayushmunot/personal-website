@@ -1,0 +1,22 @@
+.card-image {
+    position: relative;
+    object-fit: fill;
+    left: 0;
+    right: 0;
+    top: 0rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20rem;
+    height: 15rem;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.3);
+}
+.card-subtitle {
+    text-align: justify;
+}
+
+.individual-certificate-card:hover {
+    color: white;
+    background-color: black;
+    text-decoration: underline;
+    border-radius: 10%;
+  }

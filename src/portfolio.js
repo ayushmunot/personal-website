@@ -9,7 +9,7 @@ const greeting = {
   /* Your Summary And Greeting Section */
   username: "Ayush Munot",
   title: "Hi all, I'm Ayush",
-  subTitle: emoji("A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / ReactJS / NodeJS / React Native and some other cool libraries and frameworks. "),
+  subTitle: emoji("A passionate Student Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / ReactJS / NodeJS / React Native and some other cool libraries and frameworks. Venturing out to get into Product Management📦. "),
   resumeLink: "https://drive.google.com/file/d/1hOGnfVX4kU6OIDJdDMLsH6t8iF-vba1_/view?usp=sharing"
 };
 
@@ -152,8 +152,8 @@ const achievementSection = {
 
   achivementsCards: [
     {
-      title: "HackGT 6",
-      subtitle: "MOST INNOVATIVE USE OF NCR API and MOST DISRUPTIVE FINTECH HACK BY ACCENTURE - HACKGT 6",
+      title: "Finesse - HackGT 6",
+      subtitle: "Awarded the Most Innovative Use Of NCR's API and Most Disruptive Fintech Hack By Accenture, Finesse is every college student’s ideal financial advisor built upon Alexa devices. It allows students to connect their banking transactional data to learn about their monthly expenditures, highest and recurring expenses, distribution of expenditure etc. You can also set your own budget limits to manage money better and be notified of when you are close to exceeding it. In general, Finesse acts as an advisor by offering various suggestions on how to reduce expenditures and save money.",
       image: require("./assets/images/finesse-logo.png"),
       footerLink: [
         { name: "Devpost", url: "https://devpost.com/software/finesse-7bxl52" }
