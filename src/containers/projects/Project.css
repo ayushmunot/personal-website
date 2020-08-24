@@ -1,7 +1,16 @@
+#opensource {
+  margin-bottom: 12.5rem;
+}
+
 .project-title {
   font-size: 52px;
   font-weight: 400;
   line-height: normal;
+  color: #000000;
+}
+
+.project-button > .main-button {
+  margin-right: unset;
 }
 
 .startup-project-text img{
@@ -11,7 +20,7 @@
 
 .repo-cards-div-main {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
   gap: 1rem 1rem;
 }
 

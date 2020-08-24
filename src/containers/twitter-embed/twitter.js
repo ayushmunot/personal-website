@@ -1,4 +1,4 @@
-import React, {Suspense, setState} from "react";
+import React, {Suspense} from "react";
 import "./twitter.css";
 import Loading from "../loading/Loading";
 import {TwitterTimelineEmbed} from "react-twitter-embed";
@@ -15,7 +15,6 @@ function timeOut(){
   },
   10000);
 }
-var widthScreen=(window.screen.width*0.5);
 export default function Twitter() {
 	if (twitterDetails.userName) {
 		return (
@@ -25,7 +24,7 @@ export default function Twitter() {
                   <TwitterTimelineEmbed
                     sourceType="profile"
                     screenName ={ twitterDetails.userName }
-                    options={{height:400, width: '50%'}}
+                    options={{height:400, width: '75%'}}
                     placeholder={renderLoader()}
                     autoHeight= {false}
                     borderColor= "#F44336"
