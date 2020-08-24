@@ -14,7 +14,6 @@ const greeting = {
 };
 
 // Your Social Media Link
-
 const socialMediaLinks = {
   github: "https://github.com/ayushmunot",
   linkedin: "https://www.linkedin.com/in/ayushmunot/",
@@ -24,7 +23,6 @@ const socialMediaLinks = {
 };
 
 // Your Skills Section
-
 const skillsSection = {
   title: "What I do",
   subTitle: "CRAZY FULL STACK DEVELOPER WORKING ON EXPLORING EVERY TECH STACK",
@@ -35,7 +33,6 @@ const skillsSection = {
 
 /* Make Sure You include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
-
   softwareSkills: [
     {
       skillName: "Html-5",
@@ -85,7 +82,6 @@ https://fontawesome.com/icons?d=gallery */
 };
 
 // Your top 3 proficient stacks/tech experience
-
 const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
@@ -106,7 +102,6 @@ const techStack = {
 
 
 // Your top 3 work experiences
-
 const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
@@ -122,7 +117,6 @@ const workExperiences = {
 
 /* Your Open Source Section to View Your Github Pinned Projects
 To know how to get github key look at readme.md */
-
 const openSource = {
   githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
   githubUserName: "ayushmunot", // Change to your github username to view your profile in Contact Section.
@@ -131,7 +125,6 @@ const openSource = {
 
 
 // Some Big Projects You have worked with your company
-
 const bigProjects = {
   title: "Big Projects",
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
@@ -144,7 +137,6 @@ const bigProjects = {
 };
 
 // Your Achievement Section Include Your Certification Talks and More
-
 const achievementSection = {
 
   title: emoji("Achievements And Certifications 🏆 "),
@@ -163,7 +155,6 @@ const achievementSection = {
 };
 
 // Blogs Section
-
 const blogSection = {
 
   title: "Blogs",
@@ -217,7 +208,6 @@ const contactInfo = {
 };
 
 //Twitter Section
-
 const twitterDetails = {
 
   userName : "AyushMunot3"//Replace "twitter" with your twitter username without @
