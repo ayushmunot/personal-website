@@ -35,7 +35,7 @@ const skillsSection = {
 https://fontawesome.com/icons?d=gallery */
   softwareSkills: [
     {
-      skillName: "Html-5",
+      skillName: "HTML-5",
       fontAwesomeClassname: "fab fa-html5"
     },
     {
