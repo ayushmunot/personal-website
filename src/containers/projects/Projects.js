@@ -87,7 +87,7 @@ export default function Projects() {
             return <GithubRepoCard repo={v} key={v.node.id} />
           })}
         </div>
-        <Button text={"More Projects"} className="project-button" href="https://github.com/pratikms" newTab={true} />
+        <Button text={"More Projects"} className="project-button" href="https://github.com/ayushmunot" newTab={true} />
       </div>
     </Fade>
     // </Suspense>
