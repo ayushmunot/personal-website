@@ -23,10 +23,12 @@ export default function Projects() {
   }, [])
   
   function setRepoFunction(array) {
+    console.log(array);
     setRepo(array)
   }
 
   function getRepoData() {
+    console.log(openSource.githubConvertedToken);
     const client = new ApolloClient({
       uri: "https://api.github.com/graphql",
       request: operation => {
